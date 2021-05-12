@@ -8,3 +8,5 @@
 - 💬 Ask me about: Dart, Flutter, Shopify
 - 📫 How to reach me: amirhamza.dev@gmail.com
 - ⚡ Fun fact: Lazy coder
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amirhamzafahim&%22%20alt=%22Amirhamzafahim" /></p>
