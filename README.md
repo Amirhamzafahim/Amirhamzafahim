@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amir Hamza</h1>
-<h3 align="center">A passionate flutter developer from Bangladesh</h3>
+<h3 align="center">A passionate  developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on Myself
-- 🌱 I’m currently learning JS, Shopify Theme Devlopment
+- 🌱 I’m currently learning Framer, Shopify Theme Devlopment
 - 👯 I’m looking to collaborate on opensource
 - 🤔 I’m looking for help with Shopify 
 - 💬 Ask me about: Shopify
